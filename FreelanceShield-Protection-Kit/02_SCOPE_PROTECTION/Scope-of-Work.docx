@@ -1,0 +1,47 @@
+# STATEMENT OF WORK (SOW)
+
+PROJECT: [Project Title]
+CLIENT: [Client Name & Company]
+FREELANCER: [Your Name / Studio]
+DATE: [Agreement Date]
+
+1. PROJECT OBJECTIVE
+The core objective is to design, develop, and deploy [clear business outcome].
+
+2. DELIVERABLES
+• Deliverable 1: [Interactive UI Wireframes & Layout Prototypes]
+• Deliverable 2: [Frontend React & Tailwind CSS Architecture]
+• Deliverable 3: [Backend Database & API Integration]
+• Deliverable 4: [Production Deployment & Staging QA]
+
+3. FEATURES & FUNCTIONALITY
+• User authentication & session management
+• Responsive mobile & desktop interface
+• Form validation & email notification system
+• Data storage & automated schema migration
+
+4. NUMBER OF PAGES / SCREENS
+• Included Screens: Home, Features, Dashboard, Settings (Total: 4 screens)
+
+5. TECHNOLOGIES
+• Frontend: React 18, TypeScript, Tailwind CSS, Lucide Icons
+• Backend: Node.js, Express, PostgreSQL / Firestore
+• Deployment: Cloud Run / Vercel with SSL
+
+6. INTEGRATIONS
+• Payment Processing: Stripe Checkout / Webhooks
+• Transactional Email: Resend / SendGrid
+
+7. REVISIONS
+• 2 consolidated rounds of revisions per milestone.
+• Revisions apply to agreed deliverables; new features require a Change Request.
+
+8. TIMELINE & MILESTONES
+• Milestone 1: Discovery & Architecture (Days 1–5) — 40% Deposit
+• Milestone 2: Core Development & Staging (Days 6–18) — 30% Payment
+• Milestone 3: Final QA & Live Handover (Days 19–21) — 30% Final Payment
+
+9. CLIENT RESPONSIBILITIES
+• Provide high-res logos, brand assets, and finalized copywriting within 3 days.
+• Provide staging/server credentials and third-party API keys.
+• Provide written milestone sign-off within 48 business hours.

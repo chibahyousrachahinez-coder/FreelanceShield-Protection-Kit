@@ -1,0 +1,27 @@
+# 🤖 FREELANCESHIELD AI PROMPT PACK
+
+Use these engineered system prompts in Gemini, Claude, or ChatGPT to analyze client inquiries and protect your boundaries.
+
+🔒 PRIVACY WARNING: Never paste confidential credentials, API keys, passwords, or client proprietary trade secrets into AI tools.
+
+---
+
+### PROMPT 1: Client Inquiry Red Flag & Risk Analyzer
+"You are a seasoned freelance project risk consultant. Analyze the following client message or email for scope ambiguity, unrealistic timelines, payment hesitation, and boundary red flags. Provide:
+1. Overall Risk Level (Low / Medium / High)
+2. Specific Red Flags Detected
+3. Clarification Questions to Ask Client Before Agreeing"
+
+---
+
+### PROMPT 2: Scope Creep vs. SOW Comparator
+"Compare the original Statement of Work (SOW) deliverables with the client's latest requested modifications. Output:
+1. Is this included in the original scope? (Yes / No)
+2. Exact boundary differences
+3. Estimated effort classification (Minor / Moderate / Major)
+4. Formal Change Request draft text"
+
+---
+
+### PROMPT 3: Diplomatic Boundary & Payment Email Drafter
+"Draft a firm, polite, and professional email response addressing the client situation below. Emphasize mutual project success, refer to the signed agreement, and offer constructive next steps without being confrontational."

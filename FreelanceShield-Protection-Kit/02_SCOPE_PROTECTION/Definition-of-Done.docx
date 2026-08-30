@@ -1,0 +1,11 @@
+# ✅ DEFINITION OF DONE (DoD)
+
+A deliverable or project milestone is officially considered COMPLETE when:
+
+[ ] 1. All agreed functional requirements are fully implemented.
+[ ] 2. Responsive behavior is tested and verified across mobile (375px+), tablet (768px+), and desktop (1280px+).
+[ ] 3. Agreed features and user flows pass end-to-end testing without console errors.
+[ ] 4. Staging environment demo is reviewed by client.
+[ ] 5. Agreed 2-round revisions are completed and incorporated.
+[ ] 6. Formal written milestone approval / sign-off is received from the client.
+[ ] 7. Code is documented and committed to repository.

@@ -1,0 +1,13 @@
+# 💰 PAYMENT PROTECTION CHECKLIST
+
+Before and during project execution:
+
+[ ] 1. Payment schedule agreed and documented in SOW (Deposit -> Midpoint -> Final).
+[ ] 2. Payment method confirmed (Bank wire, Stripe invoice, Escrow).
+[ ] 3. Upfront deposit invoice sent and CLEARED in bank before work begins.
+[ ] 4. Payment status recorded in activity ledger for each milestone.
+[ ] 5. Milestone approval recorded in writing before requesting the next payment.
+[ ] 6. Work paused if an invoice is overdue by more than 3 business days.
+[ ] 7. Final balance received and verified BEFORE transferring live credentials or Git repos.
+
+IMPORTANT: This checklist helps you establish clear payment expectations and documentation to minimize non-payment risk.

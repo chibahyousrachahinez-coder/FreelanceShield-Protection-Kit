@@ -1,0 +1,5 @@
+Milestone Name,Amount ($),Trigger / Condition,Status,Due Date,Notes
+1. Kickoff Deposit,500,Project Kickoff (Cleared Before Work),Paid,2026-08-01,Locks development calendar
+2. Development Milestone,500,Staging Demo Sign-off,Pending,2026-08-15,Core features functional
+3. Final Delivery,500,Prior to Live Domain / DNS Handover,Pending,2026-08-25,Master credentials release
+TOTAL,1500,3-Part Structured Milestone Schedule,,

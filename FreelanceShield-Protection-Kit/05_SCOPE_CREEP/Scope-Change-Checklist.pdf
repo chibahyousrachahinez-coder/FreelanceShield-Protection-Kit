@@ -1,0 +1,17 @@
+# 🔄 THE 7-STEP SCOPE CREEP CONTROL SYSTEM
+
+When the client says: "Can you also add this extra feature?"
+
+Step 1: Is it in the original scope?
+        ↓
+Step 2: If NO → Create Change Request
+        ↓
+Step 3: Estimate additional work, cost, and timeline impact
+        ↓
+Step 4: Send Change Request to client
+        ↓
+Step 5: Client reviews and approves in writing
+        ↓
+Step 6: Record approval in Decision Log
+        ↓
+Step 7: Do the work

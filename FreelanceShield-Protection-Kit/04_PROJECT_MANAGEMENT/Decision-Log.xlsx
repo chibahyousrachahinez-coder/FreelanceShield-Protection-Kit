@@ -1,0 +1,5 @@
+Date,Decision,Approved By,Source,Impact / Notes
+2026-08-20,React 18 & Tailwind CSS stack selected,Client CTO,Email,Confirmed technical stack
+2026-08-22,Removed secondary search filter from v1 scope,Client CEO,Slack #project,Deferred to post-launch v2
+2026-08-25,Approved wireframe layouts for all 4 screens,Client CEO,Meeting Notes,Proceed to frontend development
+2026-08-28,Stripe Elements chosen over Hosted Checkout,Client CTO,Email,Custom styling authorized

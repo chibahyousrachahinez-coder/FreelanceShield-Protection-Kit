@@ -1,0 +1,4 @@
+Date,Delay Caused By,What Happened,Timeline Impact,New Expected Date,Client Notified?
+2026-08-10,Client,Missing final copywriting for checkout page,+3 business days,2026-08-18,Yes - Email Sent
+2026-08-14,Third Party,Stripe account verification pending with bank,+2 business days,2026-08-20,Yes - Slack Update
+2026-08-19,Technical Dependency,API endpoint payload schema changed,+1 business day,2026-08-21,Yes - Meeting

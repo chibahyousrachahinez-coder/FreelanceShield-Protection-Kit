@@ -1,0 +1,27 @@
+# OFFICIAL CHANGE REQUEST (CR)
+
+CHANGE REQUEST #: CR-001
+PROJECT NAME: [Project Title]
+CLIENT: [Client Name]
+DATE: [Date]
+
+1. ORIGINAL SCOPE REFERENCE
+Original SOW Section 2: "Included Deliverables: Responsive landing page with contact form."
+
+2. REQUESTED CHANGE DESCRIPTION
+Client requested adding user authentication, subscription dashboard, and recurring Stripe billing.
+
+3. SCOPE EVALUATION
+This functionality was not included in the original signed SOW and represents new architecture.
+
+4. ESTIMATED IMPACT
+• Additional Effort: 16 development hours
+• Cost Adjustment: +$650 USD
+• Timeline Adjustment: +5 business days added to launch schedule
+
+5. AUTHORIZATION
+[ ] APPROVED — Proceed with additional work and invoice
+[ ] REJECTED — Maintain original scope and timeline
+
+Client Signature: _______________________ Date: _________
+Freelancer Signature: ___________________ Date: _________
