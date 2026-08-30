@@ -1,0 +1,6 @@
+{
+  "name": "FreelanceShield Protection Kit",
+  "description": "The complete project-protection toolkit and interactive system for freelancers. Before you start the work, protect the project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
