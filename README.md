@@ -1,10 +1,10 @@
 # 🛡️ FreelanceShield — Project Protection Kit
 
-> A battle-tested project protection framework and interactive system for freelance developers, designers, and agencies.
+> A practical project-protection framework and interactive operational system for freelance developers, designers, and agencies.
 
 ---
 
-## 📁 Repository Structure
+## 📁 Kit Package Structure
 
 ```
 FreelanceShield-Protection-Kit/
@@ -47,7 +47,7 @@ FreelanceShield-Protection-Kit/
 ├── 09_SCORECARD/
 │   └── 100-Point-Protection-Audit.xlsx
 │
-└── 10_BONUSES/
+└── 10_CASE_STUDY_AND_BONUSES/
     └── Complete-Project-Example.pdf
 ```
 
@@ -60,14 +60,14 @@ FreelanceShield-Protection-Kit/
 3. **Structure Payment**: Enforce upfront deposits, milestone-based releases, and strict pause triggers.
 4. **Kickoff Correctly**: Ensure all 11 pre-start gatekeeper criteria are signed off before writing any code or design.
 5. **Control Changes**: Process all out-of-scope requests through formal Change Requests with adjusted fees and schedules.
-6. **Document Everything**: Maintain audit-proof Decision Logs and Delay Trackers for mutual transparency.
+6. **Document Everything**: Maintain structured Decision Logs and Delay Trackers for mutual transparency.
 7. **Complete Handover**: Follow the secure delivery checklist, collect the final invoice, and transfer credentials safely.
 
 ---
 
 ## 💻 Interactive Web Application
 
-This repository also includes the full interactive web application built with **React 18**, **TypeScript**, and **Tailwind CSS**.
+This repository also includes the full interactive web application built with **React 19**, **TypeScript**, and **Tailwind CSS**.
 
 ### Running Locally
 
@@ -85,4 +85,4 @@ Open `http://localhost:3000` to view the interactive suite.
 
 ## 📄 License & Disclaimer
 
-FreelanceShield is an educational and operational kit designed to help freelancers organize projects and minimize disputes. It does not constitute legal or financial advice.
+FreelanceShield is an educational and operational toolkit designed to help freelancers organize projects and minimize scope disputes. It does not constitute legal or financial advice.
